@@ -1,7 +1,7 @@
 const resources_ru = {
   pageTitle: "Manifesto",
   logoAlt: "Логотип бренда",
-  productName: "Футболка, которая хочет быть свободной",
+  productName: "A T-Shirt That Wants To Be Free",
   imageAlt: "Фото товара",
   menuItems: [
     "Код продукта",

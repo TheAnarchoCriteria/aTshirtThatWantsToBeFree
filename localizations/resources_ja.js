@@ -1,7 +1,7 @@
 const resources_ja = {
   pageTitle: "Manifesto",
   logoAlt: "ブランドのロゴ",
-  productName: "自由になりたいTシャツ",
+  productName: "A T-Shirt That Wants To Be Free",
   imageAlt: "アイテムの写真",
   menuItems: [
     "商品コード",

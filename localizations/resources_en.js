@@ -1,7 +1,7 @@
 const resources_en = {
   pageTitle: "Manifesto",
   logoAlt: "Brand logo",
-  productName: "Skirt With Secrets",
+  productName: "A T-Shirt That Wants To Be Free",
   imageAlt: "Photo of the item",
   menuItems: [
     "Product code",

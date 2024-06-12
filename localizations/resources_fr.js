@@ -1,7 +1,7 @@
 const resources_fr = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marque",
-  productName: "Un t-shirt qui veut être libre",
+  productName: "A T-Shirt That Wants To Be Free",
   imageAlt: "Photo de l'article",
   menuItems: [
     "Code produit",

@@ -1,7 +1,7 @@
 const resources_ca = {
   pageTitle: "Manifesto",
   logoAlt: "Logotip de la marca",
-  productName: "Una samarreta que vol ser lliure",
+  productName: "A T-Shirt That Wants To Be Free",
   imageAlt: "Foto de l'article",
   menuItems: [
     "Codi del producte",
