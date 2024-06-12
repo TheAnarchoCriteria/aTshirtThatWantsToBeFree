@@ -1,7 +1,7 @@
 const resources_fr = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marque",
-  productName: "Jupe avec des secrets",
+  productName: "Un t-shirt qui veut être libre",
   imageAlt: "Photo de l'article",
   menuItems: [
     "Code produit",
